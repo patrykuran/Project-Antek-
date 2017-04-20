@@ -3,15 +3,14 @@ Project of a website created during Kodilla Bootcamp
 
 ------------------------------------------------
 
-In this project I've been using only HTML and CSS. I resisted for now from using Flexbox (coming up in the next project!). 
-The project uses also:
+In this project I've been using HTML and CSS only. I've resisted from using Flexbox (coming up in the next project!) for now. 
+The project also uses:
 'Fontawesome'
 'Google Fonts'
 
 
 /* TO DO */
 
-Figure out how to manage with the image of iPhone.
 Insert screenshots of the project in the readme.md 
 
 /   /
