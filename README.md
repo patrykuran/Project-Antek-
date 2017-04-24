@@ -8,9 +8,4 @@ The project also uses:
 'Fontawesome'
 'Google Fonts'
 
-
-/* TO DO */
-
-Insert screenshots of the project in the readme.md 
-
-/   /
+[a link](https://codepen.io/trykpa/full/KmVOgv/)
