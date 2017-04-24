@@ -8,4 +8,4 @@ The project also uses:
 'Fontawesome'
 'Google Fonts'
 
-[a link](https://codepen.io/trykpa/full/KmVOgv/)
+ Take a look at this project -> [a link](https://codepen.io/trykpa/full/KmVOgv/)
