@@ -8,4 +8,4 @@ The project also uses:
 'Fontawesome'
 'Google Fonts'
 
- [Take a look at this project](https://trykpa.github.io/Project-Antek-/)
+ [Take a look at this project](https://patrykuran.github.io/Project-Antek-/)
