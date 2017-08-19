@@ -148,7 +148,7 @@ section {
 
 .text-area-1 [class*="col-"]:nth-child(2) {
 	padding-left: 25px;
-	position: relative;   /* jak obnizyc te druga czesc tekstu? */
+	position: relative;
 }
 
 /* GALLERY */
@@ -158,7 +158,7 @@ section {
 }
 
 [class*="box-"] {
-	height: 350px;  /* tu mnie się nie podoba. ale kiedy dam min-height to dla boxów z mniejszą ilością tekstu pojawiają się białe marginesy*/
+	height: 350px;
 	float: left;
 	padding: 40px;
   	position: relative;
@@ -182,7 +182,7 @@ section {
 	text-decoration: none;
 }
 
-p.more-info {    /* nie rozumiem, dlaczego kiedy wstawię spację między p a klasą to nie działa */
+p.more-info {
 	font-weight: 700;
 }
 
@@ -194,7 +194,7 @@ p.more-info {    /* nie rozumiem, dlaczego kiedy wstawię spację między p a kl
 .find-more1 {
 	position: absolute;
   	bottom: 8%;
-  	width: 80%;  /* trochę "nakombinowane" */
+  	width: 80%;
 }
 
 .find-more2 {
@@ -385,8 +385,6 @@ a.plan-button {
 	text-decoration: none;
 }
 
-
-
 .banner {
 	border-radius: 4px;
 	display: inline-block;
@@ -476,7 +474,6 @@ form input {
 	border: none;
 	font-size: 25px;
     padding: 0 15px;
-
 }
 
 form input {
